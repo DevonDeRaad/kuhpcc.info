@@ -9,7 +9,7 @@
 #SBATCH --time=10
 
 #clear job outputs
-rm slurm-*
+#rm slurm-*
 #copy in the data
 cp /panfs/pfs.local/work/bi/usage.txt .
 
