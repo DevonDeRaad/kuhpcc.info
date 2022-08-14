@@ -17,8 +17,8 @@ cp /panfs/pfs.local/work/bi/usage.txt .
 tail -n +2 usage.txt > clean.usage.txt
 
 #git config
-#git config --global user.email "deraad@oxy.edu"
-#git config --global user.name "DevonDeRaad"
+git config --global user.email "deraad@oxy.edu"
+git config --global user.name "DevonDeRaad"
 #git add
 git add . --all
 #git commit
