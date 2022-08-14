@@ -11,6 +11,9 @@
 
 #copy in the data
 cp /panfs/pfs.local/work/bi/usage.txt .
+#git config
+git config --global user.email "deraad@oxy.edu"
+git config --global user.name "DevonDeRaad"
 #git add
 git add .
 #git commit
