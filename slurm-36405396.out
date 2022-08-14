@@ -1,0 +1,4 @@
+[master 6d8e874] new hourly commit
+ 3 files changed, 6 insertions(+), 2 deletions(-)
+ create mode 100644 slurm-36405396.out
+fatal: could not read Password for 'https://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@github.com': No such device or address
