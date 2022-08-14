@@ -8,9 +8,14 @@
 #SBATCH --mem=1000            # memory requested
 #SBATCH --time=10
 
-
+#clear job outputs
+rm slurm-*
 #copy in the data
 cp /panfs/pfs.local/work/bi/usage.txt .
+
+#remove header line
+tail -n +2 usage.txt > clean.usage.txt
+
 #git config
 git config --global user.email "deraad@oxy.edu"
 git config --global user.name "DevonDeRaad"
