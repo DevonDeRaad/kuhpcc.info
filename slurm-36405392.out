@@ -1,0 +1,26 @@
+error: did you mean `--all` (with two dashes ?)
+# On branch master
+# Your branch is ahead of 'origin/master' by 3 commits.
+#   (use "git push" to publish your local commits)
+#
+# Changes not staged for commit:
+#   (use "git add/rm <file>..." to update what will be committed)
+#   (use "git checkout -- <file>..." to discard changes in working directory)
+#
+#	deleted:    .panfs.bb19470a.1660510506984552000
+#	deleted:    .panfs.c918470a.1660510567152754000
+#	deleted:    slurm-36404383.out
+#	deleted:    slurm-36404384.out
+#	deleted:    slurm-36404385.out
+#	deleted:    slurm-36404386.out
+#	deleted:    slurm-36404387.out
+#	deleted:    slurm-36404388.out
+#	modified:   slurm-36405391.out
+#	modified:   update.data.sh
+#
+# Untracked files:
+#   (use "git add <file>..." to include in what will be committed)
+#
+#	slurm-36405392.out
+no changes added to commit (use "git add" and/or "git commit -a")
+fatal: could not read Password for 'https://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@github.com': No such device or address

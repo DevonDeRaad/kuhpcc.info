@@ -1,4 +1,0 @@
-[master 0a07982] hourly commit
- 2 files changed, 4 insertions(+)
- create mode 100644 slurm-36404386.out
-fatal: unable to access 'https://{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}@github.com/{DevonDeRaad}/{kuhpcc.data}.git/': The requested URL returned error: 400

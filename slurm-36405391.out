@@ -10,3 +10,7 @@ removed from your working tree are ignored with this version of Git.
 
 Run 'git status' to check the paths you removed from your working tree.
 
+[master dc1eb61] hourly commit
+ 2 files changed, 13 insertions(+), 1 deletion(-)
+ create mode 100644 slurm-36405391.out
+fatal: could not read Password for 'https://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@github.com': No such device or address
