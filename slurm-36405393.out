@@ -1,0 +1,12 @@
+[master 7be0c2c] new hourly commit
+ 11 files changed, 34 insertions(+), 61 deletions(-)
+ delete mode 100644 .panfs.bb19470a.1660510506984552000
+ delete mode 100644 .panfs.c918470a.1660510567152754000
+ delete mode 100644 slurm-36404383.out
+ delete mode 100644 slurm-36404384.out
+ delete mode 100644 slurm-36404385.out
+ delete mode 100644 slurm-36404386.out
+ delete mode 100644 slurm-36404387.out
+ create mode 100644 slurm-36405392.out
+ rename slurm-36404388.out => slurm-36405393.out (100%)
+fatal: could not read Password for 'https://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@github.com': No such device or address
